@@ -1,0 +1,145 @@
+rsid;allele1;allele2;summary
+rs4988235;G;G;lactose intolerance likely
+rs1800546;C;G;Carrier of a hereditary fructose intolerance (HFI) mutation
+rs53576;A;A;Possible Lack of empathy
+rs53576;A;G;Possible Lack of empathy
+rs53576;G;G;Optimistic and empathetic handle stress well
+rs12255372;G;T;1.3x increased type-2 diabetes risk
+rs12255372;T;T;	slight increases (~1.5x) in risk for type-2 diabetes and possibly breast cancer and aggressive prostate cancer
+rs6152;A;A;won't go bald
+rs6152;A;G;Increased risk of baldness
+rs6152;G;G;able to go bald
+rs9939609;A;A;obesity risk and 1.6x risk for T2D
+rs9939609;A;T;1.3x risk for T2D obesity risk
+rs9939609;T;T;lower risk of obesity and Type-2 diabetes
+rs1799971;A;G;stronger cravings for alcohol. if alcoholic, naltrexone treatment 2x more successful
+rs17822931;C;C;	Wet earwax. Normal body odour. Normal colostrum.
+rs17822931;C;T;	Wet earwax. Slightly better body odour.
+rs17822931;T;T;Dry earwax. No body odour. Likely Asian ancestry. Reduced colostrum.
+rs1333049;C;C;1.9x increased risk for coronary artery disease
+rs1333049;C;G;1.5x increased risk for coronary artery disease
+rs1051730;C;C;Smokes normal (lower) number of cigarettes if a smoker.
+rs1051730;C;T;	1.3x increased risk of lung cancer
+rs1051730;T;T;	1.8x increased risk of lung cancer/ reduced response to alcohol, therefore possibly increased risk of alcohol abuse
+rs6836703;A;A;	1.34x increased risk for azoospermia in males
+rs6836703;A;G;	1.34x increased risk for azoospermia in males 
+rs4132601;G;G;moderately (~2.5x) increased risk for acute lymphoblastic leukemia - link with rs7089424,rs2239633
+rs4132601;G;T; 	somewhat (1.7x) increased risk for acute lymphoblastic leukemia - link with rs7089424,rs2239633
+rs7089424;G;G;	moderately (~4x) increased risk for acute lymphoblastic leukemia - link with rs4132601,rs2239633
+rs7089424;G;T; somewhat (~2x) increased risk for acute lymphoblastic leukemia- link with rs4132601,rs2239633
+rs924607;T;T;	in childhood acute lymphoblastic leukemia patients, worse response to vincristine
+rs5882;A;A;Faster aging. Increased risk for Dementia. Less good cholesterol.
+rs5882;A;G;Lower risk of dementia and Alzheimer's disease. Higher good cholesterol.
+rs5882;G;G;	Longer lifespan, 0.28x lower risk of dementia, 0.31x lower risk of Alzheimer's
+rs1042522;C;C;	Live 3 years longer. Chemotherapy is more effective.
+rs1042522;C;G; Slightly increased lifespan?
+rs1042522;G;G; 	Common variant. Slightly shorter lifespan.
+rs2811712;A;A; Normal (higher) risk of physical impairment with age.
+rs2811712;A;G; 	1.5x less risk for physical impairment with age.
+rs2811712;G;G; >1.5x less risk for physical impairment with age.
+rs2542052;C;C; better odds of living to 100
+rs1042713;A;A;1.7x increased risk that pediatric inhaler use may make asthma worse
+rs1042713;A;G;	1.3x increased risk that pediatric inhaler use may make asthma worse
+rs3816873;C;C;	reduced risk of type-2 diabetes
+rs662799;A;G;	1.4x higher early heart attack risk- less weight gain on high fat diets
+rs662799;G;G;	2x higher early heart attack risk- less weight gain on high fat diets
+rs9939609;A;A;	obesity risk and 1.6x risk for T2D
+rs9939609;A;T;1.3x risk for T2D- obesity risk
+rs9939609;T;T;	lower risk of obesity and Type-2 diabetes
+rs1121980;C;T; 	Slight increase (1.67x) in risk for obesity
+rs1121980;T;T; Moderate increase (2.76x) in risk for obesity
+rs2229616;A;A;	lower risk of metabolic syndrome
+rs2229616;A;G;	lower risk of metabolic syndrome
+rs2229616;G;G;	lower BMI- decreased obesity risk
+rs281865052;A;G;Parkinson's disease mutation, adult-onset
+rs281865054;G;T;	Parkinson's disease mutation, adult-onset
+rs33939927;A;C;	Parkinson's disease mutation, adult-onset
+rs33939927;C;G;	Parkinson's disease mutation, adult-onset
+rs33939927;C;T;	Parkinson's disease mutation, adult-onset
+rs34594498;C;T;Slightly (~2x) higher risk of Parkinson's disease mutation, at least in Asians according to some studies
+rs34637584;A;A;	possible miscall in Ancestry V2.0 datasets- otherwise, 15 to 30% chance of Parkinson's disease, depending on age, family history, and ethnicity
+rs34637584;A;G;	possible miscall in Ancestry V2.0 datasets- otherwise, 15 to 30% chance of Parkinson's disease, depending on age, family history, and ethnicity
+rs34805604;A;G;	Parkinson's disease mutation, adult-onset
+rs34995376;A;G;	Parkinson's disease mutation, adult-onset
+rs35801418;A;G;Parkinson's disease mutation, adult-onset
+rs35808389;A;G;	Parkinson's disease mutation, adult-onset
+rs35870237;C;T;Parkinson's disease mutation, adult-onset
+rs74163686;A;C;	Parkinson's disease mutation, adult-onset
+rs279858;G;G;	apparently more prone to alcoholism
+rs2032582;G;G;normal. better response to atorvastatin. greater severity of delusions in male schizophrenics.
+rs2032582;T;T;4x higher risk for lung cancer
+rs11200638;A;A;	~10x increased risk of wet age related macular degeneration
+rs11200638;A;G;	~2x increased risk of age related macular degeneration
+rs1800497;C;T;A1/A2: Bad at avoidance of errors. 0.5x lower OCD risk, 0.87x lower Tardive Diskinesia risk, higher ADHD risk. More Alcohol Dependence. Lower risk of Postoperative Nausea. Increased obesity. Bupropion is not effective for smoking cessation.
+rs1800497;T;T;	A1/A1: Bad at avoidance of errors. 0.25x lower OCD- 0.56x lower Tardive Diskinesia- higher ADHD- 1.4x Alcohol Dependence- lower Postoperative Nausea- Increased obesity- less pleasure response- Bupropion ineffective for smoking cessation.- 2.4x risk for adenoma recurrence.
+rs1805009;C;C;red hair possible, higher risk of melanoma
+rs1805009;C;G;Red hair carrier, higher risk of melanoma
+rs1805008;C;T;Red hair carrier, higher risk of melanoma
+rs1805008;T;T;~7-10x higher likelihood of red hair- higher risk of melanoma
+rs1805007;C;T;Carrier of a red hair associated variant- higher risk of melanoma
+rs1805007;T;T;increased response to anesthetics- 13-20x higher likelihood of red hair- increased risk of melanoma
+rs1015362;A;A;	Probably tans instead of freckles and sunburns.
+rs1015362;A;G;	2-4x higher risk of sun sensitivity if part of risk haplotype.
+rs1015362;G;G;	2-4x higher risk of sun sensitivity if part of risk haplotype.
+rs4911414;G;T;	2-4x higher risk of sun sensitivity if part of risk haplotype
+rs4911414;T;T;	2-4x higher risk of sun sensitivity if part of risk haplotype
+rs7538876;A;A;	1.28x increased Basal Cell Carcinoma risk.
+rs7538876;A;G;	Normal risk of Basal Cell Carcinoma.
+rs7538876;G;G;0.78x decreased Basal Cell Carcinoma risk.
+rs801114;G;G;	1.28x increased Basal Cell Carcinoma risk.
+rs801114;G;T;Normal (slightly higher) risk of Basal Cell Carcinoma.
+rs801114;T;T;	0.78x decreased Basal Cell Carcinoma risk.
+rs11190870;C;T;	Possibly increased risk of scoliosis
+rs11190870;T;T;Possibly even more increased risk of scoliosis
+rs17236239;G;G;	higher risk for speech development delay and/or impairment
+rs2282679;A;C;	somewhat lower vitamin D levels
+rs2282679;C;C;lower vitamin D levels
+rs12785878;G;T;	slightly increased (1.2x) risk for vitamin D insufficiency
+rs12785878;T;T;slightly increased (1.4x) risk for vitamin D insufficiency
+rs10741657;A;A;tend to have higher vitamin D levels
+rs10741657;G;G;	tend to have lower vitamin D levels
+rs2383206;A;G;1.4x increased risk for heart disease
+rs2383206;G;G;1.7x increased risk for heart disease
+rs10757278;A;A;0.78x reduced risk for Coronary Heart Disease. 0.77x reduced risk for Brain Aneurysm and Abdominal Aortic Aneurysm.
+rs10757278;A;G;1.3x risk for Heart Attack. Normal risk for Abdominal Aortic Aneurysm and Brain Aneurysm.
+rs10757278;G;G;1.3x risk for Heart Attack. Normal risk for Abdominal Aortic Aneurysm and Brain Aneurysm.
+rs2383207;A;G;	increased risk for heart disease
+rs2383207;G;G;	increased risk for heart disease
+rs10757274;A;G;~1.2x increased risk for heart disease
+rs10757274;G;G;~1.3x increased risk for heart disease
+rs4665058;A;A;~4x increased risk among Europeans for sudden cardiac death
+rs4665058;A;C;2x increased risk among Europeans for sudden cardiac death
+rs1333049;C;C;1.9x increased risk for coronary artery disease
+rs1333049;C;G;1.5x increased risk for CAD
+rs17672135;C;T;	Reduced risk (0.7x) for heart disease
+rs17672135;T;T;1.3x risk of heart disease
+rs383830;A;A; 	1.9x risk for coronary artery disease.
+rs383830;A;T; 1.6x risk for coronary artery disease.
+rs6922269;A;A;	1.6x risk of coronary artery disease
+rs6922269;A;G;	1.2x risk of coronary artery disease
+rs8055236;G;G;common, but 2.2x higher risk for heart disease
+rs8055236;G;T;1.9x risk for heart disease
+rs7250581;G;G; 	1.4x risk  heart disease, in particular, coronary artery disease.
+rs688034;C;T; 	1.1x risk higher risk for coronary artery disease
+rs688034;T;T;	1.6x risk higher risk for coronary artery disease
+rs2943634;A;A; lower risk of ischemic stroke
+rs2943634;C;C; 	slightly higher risk of ischemic stroke
+rs599839;A;A;1.4x increased risk for heart disease
+rs599839;A;G; 1.4x increased risk for heart disease
+rs599839;G;G; moderately lower (0.64x) risk for abdominal aortic aneurysm
+rs17465637;A;C;1.17x higher risk for myocardial infarction
+rs17465637;C;C;	1.34x higher risk for myocardial infarction
+rs501120;A;A;common, but >1.3x increased risk for heart disease
+rs501120;A;G;1.3x increased risk for heart disease
+rs17228212;C;C;>1.26x increased risk for heart disease
+rs17228212;C;T;1.26x increased risk for heart disease
+rs662799;A;G;1.4x higher early heart attack risk less weight gain on high fat diets
+rs662799;G;G;2x higher early heart attack risk less weight gain on high fat diets
+rs3918242;C;T;	1.14x increased risk for MI also check haplotype
+rs3918242;T;T;	1.33x increased risk for MI also check haplotype
+rs17576;A;A;	normal risk for lung cancer higher risk for MI
+rs17576;A;G;higher risk for MI and lung cancer, and COPD in smokers
+rs17576;G;G;higher risk for lung cancer, and COPD in smokers normal risk for MI
+rs708272;C;C;Small reduction in coronary heart disease risk from alcohol consumption
+rs708272;C;T;	Small reduction in heart disease risk from drinking alcohol
+rs708272;T;T;	B2B2 genotype some reduction in heart disease risk from moderate alcohol consumption
